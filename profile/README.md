@@ -1,20 +1,6 @@
-<div align="center">
-
-<img src="https://cookllm.com/logo.png" width="88" alt="CookLLM">
-
-# CookLLM
-
-大模型全栈工程课程：从零训练一个中英双语模型，过程全部公开。
-
-An LLM engineering course: training a bilingual model from scratch, in public.
-
-[官网](https://cookllm.com) · [公开构建](https://cookllm.com/lab) · [课程文档](https://cookllm.com/docs) · [小红书](https://www.xiaohongshu.com/user/profile/61a3a08c0000000021026c15) · [X](https://x.com/HarryFu254882)
-
-</div>
-
 ## 在做什么
 
-从数据、tokenizer 到架构和优化器，每个设计都先做对照实验再决定。目前预训练已经完成，正在做中训练，之后是 SFT、RL、多模态和 agent。每个实验的结论、花费和训练曲线都在[公开构建](https://cookllm.com/lab)页。
+从数据、tokenizer 到架构和优化器，每个设计都先做对照实验再决定。目前预训练已经完成，正在做中训练，之后是 SFT、RL、多模态和 agent。每个实验的结论、花费和训练曲线都在[公开构建](https://cookllm.com/lab)页，课程内容在[课程文档](https://cookllm.com/docs)。
 
 ## 代码仓库
 
