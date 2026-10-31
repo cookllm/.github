@@ -1,15 +1,17 @@
-## 在做什么
+## What we're building
 
-从数据、tokenizer 到架构和优化器，每个设计都先做对照实验再决定。目前预训练已经完成，正在做中训练，之后是 SFT、RL、多模态和 agent。每个实验的结论、花费和训练曲线都在[公开构建](https://cookllm.com/lab)页，课程内容在[课程文档](https://cookllm.com/docs)。
+CookLLM is training a Chinese and English language model from scratch, in public. Every design choice, from the data and tokenizer to the architecture and optimizer, is settled by a controlled experiment first. Pre-training is done and mid-training is under way, followed by SFT, RL, multimodal and agents.
 
-## 代码仓库
+The results, cost and training curves of every experiment are on the [Build in Public](https://cookllm.com/en/lab) page. The course itself is in the [docs](https://cookllm.com/en/docs).
 
-三个仓库是课程会员专属的私有仓库：
+## Repositories
 
-| 仓库 | 内容 |
+Three private repositories come with the course membership:
+
+| Repository | What's inside |
 |---|---|
-| cookllm-bento | 动手训练：从零训练中英双语模型的完整代码、配置和实验记录 |
-| cookllm-recipes | 原理精讲：算法模块的深度讲解和配套代码 |
-| cookllm-harness | 手写 Coding Harness 的最小可跑实现 |
+| cookllm-bento | Hands-on training: the full code, configs and experiment records for training the model from scratch |
+| cookllm-recipes | Fundamentals: deep dives into the core algorithm modules, with code |
+| cookllm-harness | A minimal, runnable coding harness |
 
-在 [cookllm.com](https://cookllm.com) 开通会员并填写 GitHub 用户名后，会自动收到这三个仓库的邀请。
+Get lifetime membership at [cookllm.com](https://cookllm.com/en/pricing) and enter your GitHub username at checkout. Invitations to all three repositories arrive automatically.
